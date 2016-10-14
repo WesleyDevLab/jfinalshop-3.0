@@ -25,7 +25,7 @@
   <modules>
     <module>jfinalshop-model</module>
     <module>jfinalshop-core</module>
-    <module>jfinalshop-utils</module>
+    <module>jfinalshop-common</module>
     <module>jfinalshop-web</module>
   </modules>
 </project>
