@@ -25,8 +25,8 @@ import java.io.OutputStream;
 
 import javax.imageio.ImageIO;
 
-import com.jfinalshop.plugin.captcha.service.Captcha;
-import com.jfinalshop.plugin.captcha.service.CaptchaService;
+import com.jfinalshop.plugin.captcha.sevice.Captcha;
+import com.jfinalshop.plugin.captcha.sevice.CaptchaService;
 
 
 

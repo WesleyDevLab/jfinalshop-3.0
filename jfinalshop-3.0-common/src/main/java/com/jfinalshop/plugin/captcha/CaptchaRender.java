@@ -23,8 +23,8 @@ import com.jfinalshop.plugin.captcha.filter.predefined.DoubleRippleFilterFactory
 import com.jfinalshop.plugin.captcha.filter.predefined.MarbleRippleFilterFactory;
 import com.jfinalshop.plugin.captcha.filter.predefined.WobbleRippleFilterFactory;
 import com.jfinalshop.plugin.captcha.font.RandomFontFactory;
-import com.jfinalshop.plugin.captcha.service.Captcha;
-import com.jfinalshop.plugin.captcha.service.ConfigurableCaptchaService;
+import com.jfinalshop.plugin.captcha.sevice.Captcha;
+import com.jfinalshop.plugin.captcha.sevice.ConfigurableCaptchaService;
 import com.jfinalshop.plugin.captcha.text.renderer.BestFitTextRenderer;
 import com.jfinalshop.plugin.captcha.text.renderer.TextRenderer;
 import com.jfinalshop.plugin.captcha.word.RandomWordFactory;
