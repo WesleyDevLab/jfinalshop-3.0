@@ -23,5 +23,5 @@
 网友捐赠  
 ---------------------------------------------------------------------  
 
-![支付](http://www.jfinalshop.com/resources/admin/images/weixin.jpg) 
+![支付](http://www.jfinalshop.com/resources/admin/images/weixin.png) 
 ![vip](http://www.jfinalshop.com/resources/admin/images/jfinalshop-vip.png) 
