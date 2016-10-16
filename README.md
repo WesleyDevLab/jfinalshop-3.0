@@ -1,6 +1,6 @@
 ****Welcome to the jfinalshop-3.0RELEASE****
 ---------------------------------------------
-> 本项目是基于jfinalshop2.0开发，JFinal2.0改成了JFinal2.2，这个版本中可以自动生成model，开发效率提升很多，目前正在测试和代码整理中，欢迎志同道合的你参与到项目中来学习交流。
+> 本项目是基于jfinalshop2.0开发，JFinal2.0改成了JFinal2.2，这个版本中可以自动生成model，开发效率提升很多，目前正在测试和代码整理中，捐赠可以成为项目成员，实时获取最新代码，加入vip群。
 
 > **Note:** 
  - JDK版本：JDK1.7
@@ -20,9 +20,8 @@
 - 后台用户：admin 
 - 后台密码：123456
 
-
-
 网友捐赠  
 ---------------------------------------------------------------------  
 
-![支付宝](http://www.jfinalshop.com/resources/admin/images/pay.jpg) 
+![支付](http://www.jfinalshop.com/resources/admin/images/pay.jpg) 
+![vip](http://www.jfinalshop.com/resources/admin/images/jfinalshop-vip.png) 
