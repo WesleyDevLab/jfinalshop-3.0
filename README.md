@@ -23,5 +23,4 @@
 网友捐赠  
 ---------------------------------------------------------------------  
 
-![支付](http://www.jfinalshop.com/resources/admin/images/weixin.png) 
-![vip](http://www.jfinalshop.com/resources/admin/images/jfinalshop-vip.png) 
+![微信支付](http://www.jfinalshop.com/resources/admin/images/weixin.png) WeChat & Alipay  ![支付定支付](http://www.jfinalshop.com/resources/admin/images/alipay.png) 
